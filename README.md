@@ -26,20 +26,6 @@ We have the experience and ability to perform the services you need from us and 
 
 ####What we need from you
 
-Below is a list of items we’ll need up front from you. Every project is slightly different, so there may be things we’ve missed from this list, but we will let you know as soon as we’re able if we’ve forgotten something we need.
-
-* [LIST OF NEEDS] *includes credentials, access to any necessary services or assets, etc*
-
-####Browser Compatibility
-We have agreed to test our code in IE7+ as well as the latest releases of Firefox, Safari, and Chrome. Additionally we test on mobile Safari and mobile Chrome (iOS devices, Android devices). If you need browsers other than those listed tested, please provide us with a list of the browsers and devices. Testing additional browsers requires more testing time as well as potentially needing to code for that specific browser.
-We code everything with progressive enhancement in mind. This means that modern browsers may show slight differences to older browsers (such as text and box shadows, rounded corners, etc) based on what a browser is able to render. Any changes will not affect the user experience.
-
-####Testing
-We write tests before we write our code, which allows us to make sure that all required functionality is not only present, but works no matter how often we change things around. If your employees or other contractors will be working on the project along side us, we require that they also write tests for all code they produce to make sure we are all on the same page and not stepping on each others toes.
-
-####Version Control
-Git allows us to keep track of all changes that happen in your application. This way, if a bug is introduced we can quickly find where it was added and roll back to the previous bug-free state while we fix things up! We require code be under version control so we can work on your application with your employees or other contractors without worrying that we may be undoing or overwriting each others changes.
-
 ####Timeline
 This project is scheduled to begin [START DATE] and will last a [PROJECT DURATION].
 Below is the milestone schedule:
@@ -56,28 +42,19 @@ All communications will be made during regular business hours (Monday-Friday, 9a
 
 As we value your time as well as our own, we ask that all meetings be scheduled a minimum of two business days in advance and be accompanied by an agenda so that we can be fully prepared. If we are unable to attend a meeting at your suggested time, we will be happy to provide two times that will work for us. Meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
 
-####Project Management
-If you do not have a preferred project management tool, we will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering our questions, stating your approval, requesting changes, and verifying completeness through the tool as well. We ask for a one business day turnaround time on responses so we can keep things moving along at a pace that will allow us to hit the milestones we decided on together. 
-To keep the project organized and the management of it easier, we prefer not to communicate any of the information stated above over ordinary email.
-
 ###Legal stuff
 
-Although we test extensively, we can't guarantee that the functions contained in any application will always be error-free and so we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application and any other web pages, even if you have advised us of the possibilities of such damages.
+We can't guarantee that the functions contained in any application will always be error-free and so we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application, even if you have advised us of the possibilities of such damages.
 
 If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
 
-Phew.
-
 ####Copyrights
 
-You guarantee to us that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide us for inclusion in the application are either owned by your good selves, or that you have permission to use them.
+Both parties guarantee that any elements of text, graphics, photos, designs, trademarks, or other artwork provided for inclusion in the application have the necessary permission to use them.
 
 When we receive your final payment, copyright is automatically assigned as follows:
 
-You own the graphics and other visual elements that we create for you for this project. We will give you a copy of all files and you should store them safely as we are not required to keep them or provide any native source files that we used in making them.
-
-You also own text content, photographs and other data you provided, unless someone else owns them. We own the code we produced and we retain the rights to license it how we choose or to contribute it back to the open source project which it is based on.
-We love to show off our work and share what we have learned with other people, so we also reserve the right to display and link to your completed project as part of our portfolio and to write about the project on web sites, in magazine articles and in books as well as speak about them publicly at conferences. Of course we’re happy to keep this information to ourselves until your project goes live or 6 months from the handover date, whichever is sooner.
+The Customer will own all graphics and other visual elements created for the Project. The Developer will provided a copy of the source code and any additional files required by the project. The Developer will grant full rights for the source code to the Customer.
 
 ###Payments
 
